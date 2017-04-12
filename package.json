@@ -2,7 +2,7 @@
   "name": "api-starter",
   "version": "1.0.0",
   "description": "",
-  "main": "src/index.js",
+  "main": "index.js",
   "scripts": {
     "test": "test",
     "sequelize": "sequelize",
@@ -29,6 +29,7 @@
     "eslint-plugin-node": "^4.2.2",
     "eslint-plugin-promise": "^3.5.0",
     "eslint-plugin-standard": "^3.0.1",
+    "nodemon": "^1.11.0",
     "sequelize-cli": "^2.7.0"
   },
   "dependencies": {
