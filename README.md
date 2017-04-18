@@ -12,6 +12,9 @@ The database driver is not included by default in this package make sure to inst
 npm install --save pg
 ```
 
+### Node version
+:white_check_mark: The boilerplate has been tested on Node.js version 7.7.3.
+
 ## Getting started
 
 To get going, fork this repository. Then run:
